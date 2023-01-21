@@ -32,12 +32,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+O Habits é um app para ajudar a manter hábitos importantes do dia a dia.
 
-- [Visite o projeto online] (https://nickira7.github.io/nlw-setup/)
+[Visite o projeto online](https://nickira7.github.io/nlw-setup/)
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/ybz15sKBJ8eCINnL1pu7fZ/Habits-(e)-(Community)?node-id=75%3A128&t=uqSkBJOEOWRIBnUM-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
